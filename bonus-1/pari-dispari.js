@@ -1,5 +1,3 @@
-// const randomNum = Math.floor(Math.random() * 100 ) + 1;
-
 const arguments = process.argv;
 
 if (parseInt(arguments[2]) % 2 === 0) {

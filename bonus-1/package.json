@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "node app.js",
-    "dev": "node --watch app.js"
+    "start": "node pari-dispari.js",
+    "dev": "node --watch pari-dispari.js"
   },
   "author": "",
   "license": "ISC",
